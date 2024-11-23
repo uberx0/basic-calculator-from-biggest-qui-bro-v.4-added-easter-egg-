@@ -1,1 +1,1 @@
-erm, what the sigma
+just calculator with poshalko
